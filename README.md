@@ -1,7 +1,7 @@
 
 	Mobile OTP verfication using Firebase - android applications.
 		
-	Referance - https://firebase.google.com/docs/auth/android/phone-auth
+	Reference - https://firebase.google.com/docs/auth/android/phone-auth
 		
 	Getting Started
 	---------------
