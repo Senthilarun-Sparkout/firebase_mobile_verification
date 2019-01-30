@@ -1,12 +1,9 @@
-# firebase_mobile_verification
-
-# Mobile OTP verfication using Firebase - android applications.
+# OTP verfication using Firebase .
 		
 	Reference - https://firebase.google.com/docs/auth/android/phone-auth
 		
-	Getting Started
-	---------------
-	
+# Getting Started
+
 	The easiest way to get started is to clone the repository:
 	
 	Step 1 : Create a project in firebase console.
