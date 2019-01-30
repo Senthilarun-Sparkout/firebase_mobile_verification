@@ -1,5 +1,5 @@
 
-	Mobile OTP verfication using Firebase - android applications.
+	# Mobile OTP verfication using Firebase - android applications.
 		
 	Reference - https://firebase.google.com/docs/auth/android/phone-auth
 		
